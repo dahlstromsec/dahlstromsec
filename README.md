@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Chris
 
-<!--
-**dahlstromsec/dahlstromsec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm starting my education as an IT Security Analyst, with a long-term goal of developing toward Cloud Security Engineering.
 
-Here are some ideas to get you started:
+My current focus is building strong fundamentals in cybersecurity, Microsoft Security, identity & access management, compliance, and cloud security.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current focus
+
+- Cybersecurity fundamentals
+- Microsoft Security
+- Identity & Access Management
+- SC-900 preparation
+- Networking basics
+- Linux basics
+- Security analysis
+- Cloud security fundamentals
+
+## Learning path
+
+I am currently preparing for SC-900 and building practical labs that I will document here over time.
+
+Planned areas:
+
+- Azure and Microsoft Entra ID basics
+- IAM concepts
+- SOC and log analysis fundamentals
+- Vulnerability management
+- Incident response basics
+- Compliance concepts such as NIS2 and ISO 27001
+
+## Goal
+
+My goal is to build a practical portfolio that supports future LIA opportunities and junior roles within cybersecurity, SOC, IT security analysis, and eventually cloud security.
