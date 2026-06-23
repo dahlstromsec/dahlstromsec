@@ -1,4 +1,4 @@
-# Hi, I'm Chris
+# Hi, I'm Christoffer Dahlström
 
 I'm starting my education as an IT Security Analyst, with a long-term goal of developing toward Cloud Security Engineering.
 
