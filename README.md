@@ -17,7 +17,7 @@ My current focus is building strong fundamentals in cybersecurity, Microsoft Sec
 
 ## Learning path
 
-I am currently preparing for SC-900 and building practical labs that I will document here over time.
+I am currently preparing for SC-900 and will be building practical labs that I document here over time.
 
 Planned areas:
 
