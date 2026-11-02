@@ -32,4 +32,4 @@ Planned areas:
 
 My goal is to build a practical portfolio that supports future LIA opportunities and junior roles within cybersecurity, SOC, IT security analysis, and eventually cloud security.
 
-<img src="koi/koi.gif" width="256" alt="My GitHub koi" />
+<img src="koi/koi.gif" width="350" alt="My GitHub koi" />
